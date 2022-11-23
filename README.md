@@ -62,6 +62,7 @@ En användare ska kunna
 - redigera listelement 
 - lägga till ett listelement med en kompletterande bild
 - flytta ett listelement uppåt eller nedåt i listan
+- lägga till ett extra fält som visar mer information om maträtten
 
 Information som kommer från formulär ska valideras med JavaScript.
 Listan ska kunna fungera för mobil och skärm.
