@@ -1,6 +1,7 @@
 # Case 3 JavaScript
 
-I det här caset ska du skapa en variant av en så kallad "To Do" applikation: en lista över maträtter 
+I det här caset ska du skapa en variant av en så kallad "To Do" applikation: **en lista över maträtter**.
+
 Applikation ska dynamiskt hantera innehållet i en lista.
 
 Här är ett exempel:
