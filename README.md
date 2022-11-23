@@ -1,16 +1,9 @@
 # Case 3 JavaScript
 
-I det här caset ska du skapa en variant av vad man kallar för en "To Do applikation
-Du ska skapa en applikation som dynamiskt kan hantera en lista. Listan kan utformas som en Att-göra lista, eller en lista över exempelvis maträtter 
+I det här caset ska du skapa en variant av en så kallad "To Do" applikation: en lista över maträtter 
+Applikation ska dynamiskt hantera innehållet i en lista.
 
 Här är ett exempel:
-
-```text
-Att göra
-- Handla mat
-- Gå på promenad
-- Vattna blommorna
-```
 
 ```text
 Maträtter
@@ -53,8 +46,7 @@ En användare ska kunna
 - ta bort listelement
 - markera listelement
 
-Formulärfält ska valideras med inbyggda metoder i HTML (attribut som ex required).
-Listan ska kunna fungera för en skärm.
+Formulärfält ska valideras med inbyggda metoder i HTML (attribut som ex required). Listan ska kunna fungera för en skärm.
 
 Utvecklingen av applikationen ska finnas dokumenterad på GitHub. Du ska ha gjort minst 10 commits under projektet.
 
