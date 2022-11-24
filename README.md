@@ -48,7 +48,7 @@ Listan ska vara tom när applikationen startas.
 En användare ska kunna
 - lägga till listelement
 - ta bort listelement
-- markera listelement
+- markera listelement (exempelvis maträtter som är "favoriter" eller liknande)
 
 Formulärfält ska valideras med inbyggda metoder i HTML (attribut som ex required). Listan ska kunna fungera för en skärm.
 
