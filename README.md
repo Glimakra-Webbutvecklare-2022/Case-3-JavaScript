@@ -42,6 +42,9 @@ Lägg till
 ***
 
 ### Grundläggande krav
+
+Listan ska vara tom när applikationen startas.
+
 En användare ska kunna
 - lägga till listelement
 - ta bort listelement
@@ -60,7 +63,6 @@ Här finns följande utmaningar. Anta en eller flera!
 
 En användare ska kunna
 - redigera listelement 
-- lägga till ett listelement med en kompletterande bild
 - flytta ett listelement uppåt eller nedåt i listan
 - lägga till ett extra fält som visar mer information om maträtten
 
